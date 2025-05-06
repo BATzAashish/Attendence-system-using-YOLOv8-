@@ -1,0 +1,12 @@
+train: D:/2NDTRY/train/images
+val: D:/2NDTRY/valid/images
+test: ../test/images
+nc: 23
+names: ['Aashish', 'Aditya', 'Agam', 'Aishani', 'Akshat', 'Arav', 'Arjun', 'Arshia', 'Arshiya', 'Ashutosh', 'Charvi', 'Chirag', 'Daksh', 'Garvit', 'Kirat', 'Lakshya', 'Nalla', 'Nitin', 'Prachi', 'Pratiksha', 'Shubhu', 'Varun', 'bb']
+
+roboflow:
+  workspace: random-eaatk
+  project: my-first-project-sdnd8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/random-eaatk/my-first-project-sdnd8/dataset/1
